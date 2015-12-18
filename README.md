@@ -1,4 +1,9 @@
-## Laravel PHP Framework
+## GLAMMY ID
+
+Glammy is The Biggest Fashion Online Store in Indonesian.
+
+
+## SUpport By Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
 [![Total Downloads](https://poser.pugx.org/laravel/framework/d/total.svg)](https://packagist.org/packages/laravel/framework)
