@@ -1,6 +1,6 @@
 ## GLAMMY ID
 
-Glammy is The Biggest Fashion Online Store in Indonesian.
+Glammy is The Largest Fashion Wholesale Marketplace
 
 
 ## Support By Laravel PHP Framework
